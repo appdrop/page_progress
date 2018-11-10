@@ -2,6 +2,8 @@
 
 That bookmarklet will show reading progress in the title bar and update it on scroll. Readable source code in `index.js`
 
+![screenshot](screenshot.png)
+
 ## Installation
 
 1. Create bookmark
